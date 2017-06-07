@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\bin\Debug\CarWiz.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\bin\Debug\CarWiz.exe
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\bin\Debug\CarWiz.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\obj\Debug\CarWiz.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\obj\Debug\CarWiz.exe
+c:\users\admin\documents\visual studio 2017\Projects\CarWiz\CarWiz\obj\Debug\CarWiz.pdb

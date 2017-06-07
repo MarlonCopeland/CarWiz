@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" ?>
+<AllCars>
+  <Car>
+    <Make>Honda</Make>
+    <Model>CRV</Model>
+    <Color>Green</Color>
+    <Year>2016</Year>
+    <Price>23845</Price>
+    <TCCRating>8</TCCRating>
+    <MPG>33</MPG>
+  </Car>
+  <Car>
+    <Make>Ford</Make>
+    <Model>Escape</Model>
+    <Color>Red</Color>
+    <Year>2016</Year>
+    <Price>23590</Price>
+    <TCCRating>7.8</TCCRating>
+    <MPG>32</MPG>
+  </Car>
+  <Car>
+    <Make>Hyundai</Make>
+    <Model>Santa Fe</Model>
+    <Color>Grey</Color>
+    <Year>2016</Year>
+    <Price>24950</Price>
+    <TCCRating>8</TCCRating>
+    <MPG>27</MPG>
+  </Car>
+  <Car>
+    <Make>Mazda</Make>
+    <Model>CX-5</Model>
+    <Color>Red</Color>
+    <Year>2017</Year>
+    <Price>21795</Price>
+    <TCCRating>8</TCCRating>
+    <MPG>35</MPG>
+  </Car>
+  <Car>
+    <Make>Subaru</Make>
+    <Model>Forester</Model>
+    <Color>Blue</Color>
+    <Year>2016</Year>
+    <Price>22395</Price>
+    <TCCRating>8.4</TCCRating>
+    <MPG>32</MPG>
+  </Car>
+</AllCars>
